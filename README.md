@@ -1,5 +1,5 @@
 # DWH-Project
-Building a modern data warehouse with SQL Server, including ETL processes, data modelling and analystics
+
 # Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
